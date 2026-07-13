@@ -1,0 +1,3 @@
+import { describe,expect,it } from 'vitest';import { buildSprint } from './sprintBuilder';import { buildQuiz } from './quizBuilder';import { defaultProgress } from './reviewScheduler';import type { Question } from '../types';
+const qs=Array.from({length:3},(_,i)=>({id:i+1,sourceQuestionNo:String(i+1),question:'q',options:{A:'a',B:'b',C:'c',D:'d'},answer:'A',explanation:''} as Question));
+describe('組題',()=>{it('衝刺不會抽到重複題且題數不足不會錯誤',()=>{const p=new Map(qs.map(q=>[q.id,defaultProgress(q.id)]));const r=buildSprint(qs,p,10);expect(r).toHaveLength(3);expect(new Set(r.map(q=>q.id)).size).toBe(3)});it('測驗題數不足只回傳可用題',()=>{const p=new Map(qs.map(q=>[q.id,defaultProgress(q.id)]));expect(buildQuiz(qs,p,'wrong',10)).toHaveLength(0)})});

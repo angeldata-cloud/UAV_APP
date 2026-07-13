@@ -1,0 +1,4 @@
+import { openDB, type DBSchema } from 'idb';
+import type { AppSettings, Question, QuestionProgress, StudySession } from '../types';
+interface DroneSchema extends DBSchema { questions: { key: number; value: Question }; progress: { key: number; value: QuestionProgress }; sessions: { key: string; value: StudySession }; settings: { key: string; value: AppSettings }; }
+export const dbPromise = openDB<DroneSchema>('drone-exam-db', 1, { upgrade(db) { if (!db.objectStoreNames.contains('questions')) db.createObjectStore('questions', { keyPath: 'id' }); if (!db.objectStoreNames.contains('progress')) db.createObjectStore('progress', { keyPath: 'questionId' }); if (!db.objectStoreNames.contains('sessions')) db.createObjectStore('sessions', { keyPath: 'id' }); if (!db.objectStoreNames.contains('settings')) db.createObjectStore('settings', { keyPath: 'key' }); } });
