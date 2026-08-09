@@ -1,0 +1,1170 @@
+{
+  "schemaVersion": 1,
+  "nextStableQuestionId": 389,
+  "questions": {
+    "chapter-01:1": {
+      "stableQuestionId": 1
+    },
+    "chapter-01:2": {
+      "stableQuestionId": 2
+    },
+    "chapter-01:3": {
+      "stableQuestionId": 3
+    },
+    "chapter-01:4": {
+      "stableQuestionId": 4
+    },
+    "chapter-01:5": {
+      "stableQuestionId": 5
+    },
+    "chapter-01:6": {
+      "stableQuestionId": 6
+    },
+    "chapter-01:7": {
+      "stableQuestionId": 7
+    },
+    "chapter-01:8": {
+      "stableQuestionId": 8
+    },
+    "chapter-01:9": {
+      "stableQuestionId": 9
+    },
+    "chapter-01:10": {
+      "stableQuestionId": 10
+    },
+    "chapter-01:11": {
+      "stableQuestionId": 11
+    },
+    "chapter-01:12": {
+      "stableQuestionId": 12
+    },
+    "chapter-01:13": {
+      "stableQuestionId": 13
+    },
+    "chapter-01:14": {
+      "stableQuestionId": 14
+    },
+    "chapter-01:15": {
+      "stableQuestionId": 15
+    },
+    "chapter-01:16": {
+      "stableQuestionId": 16
+    },
+    "chapter-01:17": {
+      "stableQuestionId": 17
+    },
+    "chapter-01:18": {
+      "stableQuestionId": 18
+    },
+    "chapter-01:19": {
+      "stableQuestionId": 19
+    },
+    "chapter-01:20": {
+      "stableQuestionId": 20
+    },
+    "chapter-01:21": {
+      "stableQuestionId": 21
+    },
+    "chapter-01:22": {
+      "stableQuestionId": 22
+    },
+    "chapter-01:23": {
+      "stableQuestionId": 23
+    },
+    "chapter-01:24": {
+      "stableQuestionId": 24
+    },
+    "chapter-01:25": {
+      "stableQuestionId": 25
+    },
+    "chapter-01:26": {
+      "stableQuestionId": 26
+    },
+    "chapter-01:27": {
+      "stableQuestionId": 27
+    },
+    "chapter-01:28": {
+      "stableQuestionId": 28
+    },
+    "chapter-01:29": {
+      "stableQuestionId": 29
+    },
+    "chapter-01:30": {
+      "stableQuestionId": 30
+    },
+    "chapter-01:31": {
+      "stableQuestionId": 31
+    },
+    "chapter-01:32": {
+      "stableQuestionId": 32
+    },
+    "chapter-01:33": {
+      "stableQuestionId": 33
+    },
+    "chapter-01:34": {
+      "stableQuestionId": 34
+    },
+    "chapter-01:35": {
+      "stableQuestionId": 35
+    },
+    "chapter-01:36": {
+      "stableQuestionId": 36
+    },
+    "chapter-01:37": {
+      "stableQuestionId": 37
+    },
+    "chapter-01:38": {
+      "stableQuestionId": 38
+    },
+    "chapter-01:39": {
+      "stableQuestionId": 39
+    },
+    "chapter-01:40": {
+      "stableQuestionId": 40
+    },
+    "chapter-01:41": {
+      "stableQuestionId": 41
+    },
+    "chapter-01:42": {
+      "stableQuestionId": 42
+    },
+    "chapter-01:43": {
+      "stableQuestionId": 43
+    },
+    "chapter-01:44": {
+      "stableQuestionId": 44
+    },
+    "chapter-01:45": {
+      "stableQuestionId": 45
+    },
+    "chapter-01:46": {
+      "stableQuestionId": 46
+    },
+    "chapter-01:47": {
+      "stableQuestionId": 47
+    },
+    "chapter-01:48": {
+      "stableQuestionId": 48
+    },
+    "chapter-01:49": {
+      "stableQuestionId": 49
+    },
+    "chapter-01:50": {
+      "stableQuestionId": 50
+    },
+    "chapter-01:51": {
+      "stableQuestionId": 51
+    },
+    "chapter-01:52": {
+      "stableQuestionId": 52
+    },
+    "chapter-01:53": {
+      "stableQuestionId": 53
+    },
+    "chapter-01:54": {
+      "stableQuestionId": 54
+    },
+    "chapter-01:55": {
+      "stableQuestionId": 55
+    },
+    "chapter-01:56": {
+      "stableQuestionId": 56
+    },
+    "chapter-01:57": {
+      "stableQuestionId": 57
+    },
+    "chapter-01:58": {
+      "stableQuestionId": 58
+    },
+    "chapter-01:59": {
+      "stableQuestionId": 59
+    },
+    "chapter-01:60": {
+      "stableQuestionId": 60
+    },
+    "chapter-01:61": {
+      "stableQuestionId": 61
+    },
+    "chapter-01:62": {
+      "stableQuestionId": 62
+    },
+    "chapter-01:63": {
+      "stableQuestionId": 63
+    },
+    "chapter-01:64": {
+      "stableQuestionId": 64
+    },
+    "chapter-01:65": {
+      "stableQuestionId": 65
+    },
+    "chapter-01:66": {
+      "stableQuestionId": 66
+    },
+    "chapter-01:67": {
+      "stableQuestionId": 67
+    },
+    "chapter-01:68": {
+      "stableQuestionId": 68
+    },
+    "chapter-01:69": {
+      "stableQuestionId": 69
+    },
+    "chapter-01:70": {
+      "stableQuestionId": 70
+    },
+    "chapter-01:71": {
+      "stableQuestionId": 71
+    },
+    "chapter-01:72": {
+      "stableQuestionId": 72
+    },
+    "chapter-01:73": {
+      "stableQuestionId": 73
+    },
+    "chapter-01:74": {
+      "stableQuestionId": 74
+    },
+    "chapter-01:75": {
+      "stableQuestionId": 75
+    },
+    "chapter-01:76": {
+      "stableQuestionId": 76
+    },
+    "chapter-01:77": {
+      "stableQuestionId": 77
+    },
+    "chapter-01:78": {
+      "stableQuestionId": 78
+    },
+    "chapter-01:79": {
+      "stableQuestionId": 79
+    },
+    "chapter-01:80": {
+      "stableQuestionId": 80
+    },
+    "chapter-01:81": {
+      "stableQuestionId": 81
+    },
+    "chapter-01:82": {
+      "stableQuestionId": 82
+    },
+    "chapter-01:83": {
+      "stableQuestionId": 83
+    },
+    "chapter-01:84": {
+      "stableQuestionId": 84
+    },
+    "chapter-01:85": {
+      "stableQuestionId": 85
+    },
+    "chapter-01:86": {
+      "stableQuestionId": 86
+    },
+    "chapter-01:87": {
+      "stableQuestionId": 87
+    },
+    "chapter-01:88": {
+      "stableQuestionId": 88
+    },
+    "chapter-01:89": {
+      "stableQuestionId": 89
+    },
+    "chapter-01:90": {
+      "stableQuestionId": 90
+    },
+    "chapter-01:91": {
+      "stableQuestionId": 91
+    },
+    "chapter-02:1": {
+      "stableQuestionId": 92
+    },
+    "chapter-02:2": {
+      "stableQuestionId": 93
+    },
+    "chapter-02:3": {
+      "stableQuestionId": 94
+    },
+    "chapter-02:4": {
+      "stableQuestionId": 95
+    },
+    "chapter-02:5": {
+      "stableQuestionId": 96
+    },
+    "chapter-02:6": {
+      "stableQuestionId": 97
+    },
+    "chapter-02:7": {
+      "stableQuestionId": 98
+    },
+    "chapter-02:8": {
+      "stableQuestionId": 99
+    },
+    "chapter-02:9": {
+      "stableQuestionId": 100
+    },
+    "chapter-02:10": {
+      "stableQuestionId": 101
+    },
+    "chapter-02:11": {
+      "stableQuestionId": 102
+    },
+    "chapter-02:12": {
+      "stableQuestionId": 103
+    },
+    "chapter-02:13": {
+      "stableQuestionId": 104
+    },
+    "chapter-02:14": {
+      "stableQuestionId": 105
+    },
+    "chapter-02:15": {
+      "stableQuestionId": 106
+    },
+    "chapter-02:16": {
+      "stableQuestionId": 107
+    },
+    "chapter-02:17": {
+      "stableQuestionId": 108
+    },
+    "chapter-02:18": {
+      "stableQuestionId": 109
+    },
+    "chapter-02:19": {
+      "stableQuestionId": 110
+    },
+    "chapter-02:20": {
+      "stableQuestionId": 111
+    },
+    "chapter-02:21": {
+      "stableQuestionId": 112
+    },
+    "chapter-02:22": {
+      "stableQuestionId": 113
+    },
+    "chapter-02:23": {
+      "stableQuestionId": 114
+    },
+    "chapter-02:24": {
+      "stableQuestionId": 115
+    },
+    "chapter-02:25": {
+      "stableQuestionId": 116
+    },
+    "chapter-02:26": {
+      "stableQuestionId": 117
+    },
+    "chapter-02:27": {
+      "stableQuestionId": 118
+    },
+    "chapter-02:28": {
+      "stableQuestionId": 119
+    },
+    "chapter-02:29": {
+      "stableQuestionId": 120
+    },
+    "chapter-02:30": {
+      "stableQuestionId": 121
+    },
+    "chapter-02:31": {
+      "stableQuestionId": 122
+    },
+    "chapter-02:32": {
+      "stableQuestionId": 123
+    },
+    "chapter-02:33": {
+      "stableQuestionId": 124
+    },
+    "chapter-02:34": {
+      "stableQuestionId": 125
+    },
+    "chapter-02:35": {
+      "stableQuestionId": 126
+    },
+    "chapter-02:36": {
+      "stableQuestionId": 127
+    },
+    "chapter-02:37": {
+      "stableQuestionId": 128
+    },
+    "chapter-02:38": {
+      "stableQuestionId": 129
+    },
+    "chapter-02:39": {
+      "stableQuestionId": 130
+    },
+    "chapter-02:40": {
+      "stableQuestionId": 131
+    },
+    "chapter-02:41": {
+      "stableQuestionId": 132
+    },
+    "chapter-02:42": {
+      "stableQuestionId": 133
+    },
+    "chapter-02:43": {
+      "stableQuestionId": 134
+    },
+    "chapter-02:44": {
+      "stableQuestionId": 135
+    },
+    "chapter-02:45": {
+      "stableQuestionId": 136
+    },
+    "chapter-02:46": {
+      "stableQuestionId": 137
+    },
+    "chapter-02:47": {
+      "stableQuestionId": 138
+    },
+    "chapter-02:48": {
+      "stableQuestionId": 139
+    },
+    "chapter-02:49": {
+      "stableQuestionId": 140
+    },
+    "chapter-02:50": {
+      "stableQuestionId": 141
+    },
+    "chapter-02:51": {
+      "stableQuestionId": 142
+    },
+    "chapter-02:52": {
+      "stableQuestionId": 143
+    },
+    "chapter-02:53": {
+      "stableQuestionId": 144
+    },
+    "chapter-02:54": {
+      "stableQuestionId": 145
+    },
+    "chapter-02:55": {
+      "stableQuestionId": 146
+    },
+    "chapter-02:56": {
+      "stableQuestionId": 147
+    },
+    "chapter-02:57": {
+      "stableQuestionId": 148
+    },
+    "chapter-02:58": {
+      "stableQuestionId": 149
+    },
+    "chapter-02:59": {
+      "stableQuestionId": 150
+    },
+    "chapter-02:60": {
+      "stableQuestionId": 151
+    },
+    "chapter-02:61": {
+      "stableQuestionId": 152
+    },
+    "chapter-02:62": {
+      "stableQuestionId": 153
+    },
+    "chapter-02:63": {
+      "stableQuestionId": 154
+    },
+    "chapter-02:64": {
+      "stableQuestionId": 155
+    },
+    "chapter-02:65": {
+      "stableQuestionId": 156
+    },
+    "chapter-02:66": {
+      "stableQuestionId": 157
+    },
+    "chapter-02:67": {
+      "stableQuestionId": 158
+    },
+    "chapter-02:68": {
+      "stableQuestionId": 159
+    },
+    "chapter-02:69": {
+      "stableQuestionId": 160
+    },
+    "chapter-02:70": {
+      "stableQuestionId": 161
+    },
+    "chapter-02:71": {
+      "stableQuestionId": 162
+    },
+    "chapter-02:72": {
+      "stableQuestionId": 163
+    },
+    "chapter-02:73": {
+      "stableQuestionId": 164
+    },
+    "chapter-02:74": {
+      "stableQuestionId": 165
+    },
+    "chapter-02:75": {
+      "stableQuestionId": 166
+    },
+    "chapter-02:76": {
+      "stableQuestionId": 167
+    },
+    "chapter-02:77": {
+      "stableQuestionId": 168
+    },
+    "chapter-02:78": {
+      "stableQuestionId": 169
+    },
+    "chapter-02:79": {
+      "stableQuestionId": 170
+    },
+    "chapter-02:80": {
+      "stableQuestionId": 171
+    },
+    "chapter-02:81": {
+      "stableQuestionId": 172
+    },
+    "chapter-02:82": {
+      "stableQuestionId": 173
+    },
+    "chapter-02:83": {
+      "stableQuestionId": 174
+    },
+    "chapter-02:84": {
+      "stableQuestionId": 175
+    },
+    "chapter-02:85": {
+      "stableQuestionId": 176
+    },
+    "chapter-02:86": {
+      "stableQuestionId": 177
+    },
+    "chapter-02:87": {
+      "stableQuestionId": 178
+    },
+    "chapter-02:88": {
+      "stableQuestionId": 179
+    },
+    "chapter-02:89": {
+      "stableQuestionId": 180
+    },
+    "chapter-02:90": {
+      "stableQuestionId": 181
+    },
+    "chapter-02:91": {
+      "stableQuestionId": 182
+    },
+    "chapter-02:92": {
+      "stableQuestionId": 183
+    },
+    "chapter-02:93": {
+      "stableQuestionId": 184
+    },
+    "chapter-02:94": {
+      "stableQuestionId": 185
+    },
+    "chapter-02:95": {
+      "stableQuestionId": 186
+    },
+    "chapter-02:96": {
+      "stableQuestionId": 187
+    },
+    "chapter-02:97": {
+      "stableQuestionId": 188
+    },
+    "chapter-02:98": {
+      "stableQuestionId": 189
+    },
+    "chapter-02:99": {
+      "stableQuestionId": 190
+    },
+    "chapter-02:100": {
+      "stableQuestionId": 191
+    },
+    "chapter-02:101": {
+      "stableQuestionId": 192
+    },
+    "chapter-02:102": {
+      "stableQuestionId": 193
+    },
+    "chapter-02:103": {
+      "stableQuestionId": 194
+    },
+    "chapter-02:104": {
+      "stableQuestionId": 195
+    },
+    "chapter-02:105": {
+      "stableQuestionId": 196
+    },
+    "chapter-02:106": {
+      "stableQuestionId": 197
+    },
+    "chapter-02:107": {
+      "stableQuestionId": 198
+    },
+    "chapter-02:108": {
+      "stableQuestionId": 199
+    },
+    "chapter-02:109": {
+      "stableQuestionId": 200
+    },
+    "chapter-02:110": {
+      "stableQuestionId": 201
+    },
+    "chapter-02:111": {
+      "stableQuestionId": 202
+    },
+    "chapter-02:112": {
+      "stableQuestionId": 203
+    },
+    "chapter-02:113": {
+      "stableQuestionId": 204
+    },
+    "chapter-02:114": {
+      "stableQuestionId": 205
+    },
+    "chapter-02:115": {
+      "stableQuestionId": 206
+    },
+    "chapter-02:116": {
+      "stableQuestionId": 207
+    },
+    "chapter-02:117": {
+      "stableQuestionId": 208
+    },
+    "chapter-02:118": {
+      "stableQuestionId": 209
+    },
+    "chapter-02:119": {
+      "stableQuestionId": 210
+    },
+    "chapter-02:120": {
+      "stableQuestionId": 211
+    },
+    "chapter-02:121": {
+      "stableQuestionId": 212
+    },
+    "chapter-02:122": {
+      "stableQuestionId": 213
+    },
+    "chapter-02:123": {
+      "stableQuestionId": 214
+    },
+    "chapter-02:124": {
+      "stableQuestionId": 215
+    },
+    "chapter-02:125": {
+      "stableQuestionId": 216
+    },
+    "chapter-02:126": {
+      "stableQuestionId": 217
+    },
+    "chapter-02:127": {
+      "stableQuestionId": 218
+    },
+    "chapter-02:128": {
+      "stableQuestionId": 219
+    },
+    "chapter-02:129": {
+      "stableQuestionId": 220
+    },
+    "chapter-02:130": {
+      "stableQuestionId": 221
+    },
+    "chapter-02:131": {
+      "stableQuestionId": 222
+    },
+    "chapter-02:132": {
+      "stableQuestionId": 223
+    },
+    "chapter-02:133": {
+      "stableQuestionId": 224
+    },
+    "chapter-02:134": {
+      "stableQuestionId": 225
+    },
+    "chapter-02:135": {
+      "stableQuestionId": 226
+    },
+    "chapter-02:136": {
+      "stableQuestionId": 227
+    },
+    "chapter-02:137": {
+      "stableQuestionId": 228
+    },
+    "chapter-02:138": {
+      "stableQuestionId": 229
+    },
+    "chapter-02:139": {
+      "stableQuestionId": 230
+    },
+    "chapter-02:140": {
+      "stableQuestionId": 231
+    },
+    "chapter-02:141": {
+      "stableQuestionId": 232
+    },
+    "chapter-02:142": {
+      "stableQuestionId": 233
+    },
+    "chapter-02:143": {
+      "stableQuestionId": 234
+    },
+    "chapter-02:144": {
+      "stableQuestionId": 235
+    },
+    "chapter-02:145": {
+      "stableQuestionId": 236
+    },
+    "chapter-02:146": {
+      "stableQuestionId": 237
+    },
+    "chapter-02:147": {
+      "stableQuestionId": 238
+    },
+    "chapter-02:148": {
+      "stableQuestionId": 239
+    },
+    "chapter-02:149": {
+      "stableQuestionId": 240
+    },
+    "chapter-02:150": {
+      "stableQuestionId": 241
+    },
+    "chapter-02:151": {
+      "stableQuestionId": 242
+    },
+    "chapter-02:152": {
+      "stableQuestionId": 243
+    },
+    "chapter-02:153": {
+      "stableQuestionId": 244
+    },
+    "chapter-02:154": {
+      "stableQuestionId": 245
+    },
+    "chapter-02:155": {
+      "stableQuestionId": 246
+    },
+    "chapter-02:156": {
+      "stableQuestionId": 247
+    },
+    "chapter-02:157": {
+      "stableQuestionId": 248
+    },
+    "chapter-02:158": {
+      "stableQuestionId": 249
+    },
+    "chapter-02:159": {
+      "stableQuestionId": 250
+    },
+    "chapter-02:160": {
+      "stableQuestionId": 251
+    },
+    "chapter-02:161": {
+      "stableQuestionId": 252
+    },
+    "chapter-02:162": {
+      "stableQuestionId": 253
+    },
+    "chapter-02:163": {
+      "stableQuestionId": 254
+    },
+    "chapter-02:164": {
+      "stableQuestionId": 255
+    },
+    "chapter-02:165": {
+      "stableQuestionId": 256
+    },
+    "chapter-02:166": {
+      "stableQuestionId": 257
+    },
+    "chapter-02:167": {
+      "stableQuestionId": 258
+    },
+    "chapter-02:168": {
+      "stableQuestionId": 259
+    },
+    "chapter-02:169": {
+      "stableQuestionId": 260
+    },
+    "chapter-02:170": {
+      "stableQuestionId": 261
+    },
+    "chapter-02:171": {
+      "stableQuestionId": 262
+    },
+    "chapter-02:172": {
+      "stableQuestionId": 263
+    },
+    "chapter-03:1": {
+      "stableQuestionId": 264
+    },
+    "chapter-03:2": {
+      "stableQuestionId": 265
+    },
+    "chapter-03:3": {
+      "stableQuestionId": 266
+    },
+    "chapter-03:4": {
+      "stableQuestionId": 267
+    },
+    "chapter-03:5": {
+      "stableQuestionId": 268
+    },
+    "chapter-03:6": {
+      "stableQuestionId": 269
+    },
+    "chapter-03:7": {
+      "stableQuestionId": 270
+    },
+    "chapter-03:8": {
+      "stableQuestionId": 271
+    },
+    "chapter-03:9": {
+      "stableQuestionId": 272
+    },
+    "chapter-03:10": {
+      "stableQuestionId": 273
+    },
+    "chapter-03:11": {
+      "stableQuestionId": 274
+    },
+    "chapter-03:12": {
+      "stableQuestionId": 275
+    },
+    "chapter-03:13": {
+      "stableQuestionId": 276
+    },
+    "chapter-03:14": {
+      "stableQuestionId": 277
+    },
+    "chapter-03:15": {
+      "stableQuestionId": 278
+    },
+    "chapter-03:16": {
+      "stableQuestionId": 279
+    },
+    "chapter-03:17": {
+      "stableQuestionId": 280
+    },
+    "chapter-03:18": {
+      "stableQuestionId": 281
+    },
+    "chapter-03:19": {
+      "stableQuestionId": 282
+    },
+    "chapter-03:20": {
+      "stableQuestionId": 283
+    },
+    "chapter-03:21": {
+      "stableQuestionId": 284
+    },
+    "chapter-03:22": {
+      "stableQuestionId": 285
+    },
+    "chapter-03:23": {
+      "stableQuestionId": 286
+    },
+    "chapter-03:24": {
+      "stableQuestionId": 287
+    },
+    "chapter-03:25": {
+      "stableQuestionId": 288
+    },
+    "chapter-03:26": {
+      "stableQuestionId": 289
+    },
+    "chapter-03:27": {
+      "stableQuestionId": 290
+    },
+    "chapter-03:28": {
+      "stableQuestionId": 291
+    },
+    "chapter-03:29": {
+      "stableQuestionId": 292
+    },
+    "chapter-03:30": {
+      "stableQuestionId": 293
+    },
+    "chapter-03:31": {
+      "stableQuestionId": 294
+    },
+    "chapter-03:32": {
+      "stableQuestionId": 295
+    },
+    "chapter-03:33": {
+      "stableQuestionId": 296
+    },
+    "chapter-03:34": {
+      "stableQuestionId": 297
+    },
+    "chapter-03:35": {
+      "stableQuestionId": 298
+    },
+    "chapter-03:36": {
+      "stableQuestionId": 299
+    },
+    "chapter-03:37": {
+      "stableQuestionId": 300
+    },
+    "chapter-03:38": {
+      "stableQuestionId": 301
+    },
+    "chapter-03:39": {
+      "stableQuestionId": 302
+    },
+    "chapter-03:40": {
+      "stableQuestionId": 303
+    },
+    "chapter-03:41": {
+      "stableQuestionId": 304
+    },
+    "chapter-03:42": {
+      "stableQuestionId": 305
+    },
+    "chapter-03:43": {
+      "stableQuestionId": 306
+    },
+    "chapter-03:44": {
+      "stableQuestionId": 307
+    },
+    "chapter-03:45": {
+      "stableQuestionId": 308
+    },
+    "chapter-03:46": {
+      "stableQuestionId": 309
+    },
+    "chapter-03:47": {
+      "stableQuestionId": 310
+    },
+    "chapter-03:48": {
+      "stableQuestionId": 311
+    },
+    "chapter-03:49": {
+      "stableQuestionId": 312
+    },
+    "chapter-03:50": {
+      "stableQuestionId": 313
+    },
+    "chapter-03:51": {
+      "stableQuestionId": 314
+    },
+    "chapter-03:52": {
+      "stableQuestionId": 315
+    },
+    "chapter-03:53": {
+      "stableQuestionId": 316
+    },
+    "chapter-03:54": {
+      "stableQuestionId": 317
+    },
+    "chapter-03:55": {
+      "stableQuestionId": 318
+    },
+    "chapter-03:56": {
+      "stableQuestionId": 319
+    },
+    "chapter-03:57": {
+      "stableQuestionId": 320
+    },
+    "chapter-03:58": {
+      "stableQuestionId": 321
+    },
+    "chapter-03:59": {
+      "stableQuestionId": 322
+    },
+    "chapter-03:60": {
+      "stableQuestionId": 323
+    },
+    "chapter-03:61": {
+      "stableQuestionId": 324
+    },
+    "chapter-03:62": {
+      "stableQuestionId": 325
+    },
+    "chapter-03:63": {
+      "stableQuestionId": 326
+    },
+    "chapter-03:64": {
+      "stableQuestionId": 327
+    },
+    "chapter-03:65": {
+      "stableQuestionId": 328
+    },
+    "chapter-03:66": {
+      "stableQuestionId": 329
+    },
+    "chapter-03:67": {
+      "stableQuestionId": 330
+    },
+    "chapter-03:68": {
+      "stableQuestionId": 331
+    },
+    "chapter-03:69": {
+      "stableQuestionId": 332
+    },
+    "chapter-03:70": {
+      "stableQuestionId": 333
+    },
+    "chapter-03:71": {
+      "stableQuestionId": 334
+    },
+    "chapter-03:72": {
+      "stableQuestionId": 335
+    },
+    "chapter-03:73": {
+      "stableQuestionId": 336
+    },
+    "chapter-03:74": {
+      "stableQuestionId": 337
+    },
+    "chapter-03:75": {
+      "stableQuestionId": 338
+    },
+    "chapter-03:76": {
+      "stableQuestionId": 339
+    },
+    "chapter-03:77": {
+      "stableQuestionId": 340
+    },
+    "chapter-03:78": {
+      "stableQuestionId": 341
+    },
+    "chapter-03:79": {
+      "stableQuestionId": 342
+    },
+    "chapter-03:80": {
+      "stableQuestionId": 343
+    },
+    "chapter-03:81": {
+      "stableQuestionId": 344
+    },
+    "chapter-03:82": {
+      "stableQuestionId": 345
+    },
+    "chapter-04:1": {
+      "stableQuestionId": 346
+    },
+    "chapter-04:2": {
+      "stableQuestionId": 347
+    },
+    "chapter-04:3": {
+      "stableQuestionId": 348
+    },
+    "chapter-04:4": {
+      "stableQuestionId": 349
+    },
+    "chapter-04:5": {
+      "stableQuestionId": 350
+    },
+    "chapter-04:6": {
+      "stableQuestionId": 351
+    },
+    "chapter-04:7": {
+      "stableQuestionId": 352
+    },
+    "chapter-04:8": {
+      "stableQuestionId": 353
+    },
+    "chapter-04:9": {
+      "stableQuestionId": 354
+    },
+    "chapter-04:10": {
+      "stableQuestionId": 355
+    },
+    "chapter-04:11": {
+      "stableQuestionId": 356
+    },
+    "chapter-04:12": {
+      "stableQuestionId": 357
+    },
+    "chapter-04:13": {
+      "stableQuestionId": 358
+    },
+    "chapter-04:14": {
+      "stableQuestionId": 359
+    },
+    "chapter-04:15": {
+      "stableQuestionId": 360
+    },
+    "chapter-04:16": {
+      "stableQuestionId": 361
+    },
+    "chapter-04:17": {
+      "stableQuestionId": 362
+    },
+    "chapter-04:18": {
+      "stableQuestionId": 363
+    },
+    "chapter-04:19": {
+      "stableQuestionId": 364
+    },
+    "chapter-04:20": {
+      "stableQuestionId": 365
+    },
+    "chapter-04:21": {
+      "stableQuestionId": 366
+    },
+    "chapter-04:22": {
+      "stableQuestionId": 367
+    },
+    "chapter-04:23": {
+      "stableQuestionId": 368
+    },
+    "chapter-04:24": {
+      "stableQuestionId": 369
+    },
+    "chapter-04:25": {
+      "stableQuestionId": 370
+    },
+    "chapter-04:26": {
+      "stableQuestionId": 371
+    },
+    "chapter-04:27": {
+      "stableQuestionId": 372
+    },
+    "chapter-04:28": {
+      "stableQuestionId": 373
+    },
+    "chapter-04:29": {
+      "stableQuestionId": 374
+    },
+    "chapter-04:30": {
+      "stableQuestionId": 375
+    },
+    "chapter-04:31": {
+      "stableQuestionId": 376
+    },
+    "chapter-04:32": {
+      "stableQuestionId": 377
+    },
+    "chapter-04:33": {
+      "stableQuestionId": 378
+    },
+    "chapter-04:34": {
+      "stableQuestionId": 379
+    },
+    "chapter-04:35": {
+      "stableQuestionId": 380
+    },
+    "chapter-04:36": {
+      "stableQuestionId": 381
+    },
+    "chapter-04:37": {
+      "stableQuestionId": 382
+    },
+    "chapter-04:38": {
+      "stableQuestionId": 383
+    },
+    "chapter-04:39": {
+      "stableQuestionId": 384
+    },
+    "chapter-04:40": {
+      "stableQuestionId": 385
+    },
+    "chapter-04:41": {
+      "stableQuestionId": 386
+    },
+    "chapter-04:42": {
+      "stableQuestionId": 387
+    },
+    "chapter-04:43": {
+      "stableQuestionId": 388
+    }
+  }
+}
