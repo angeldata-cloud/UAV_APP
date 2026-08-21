@@ -10,9 +10,9 @@
 - 題目插列、排序、文字或題解修正不會改變 stableQuestionId。
 - 答案改變時會保留答題歷史、收藏與錯題紀錄，但把該題排成立即重新複習。
 
-## 爸爸更新題庫
+## 更新題庫
 
-爸爸只需要使用自己的 GitHub 帳號，接受 Repository Collaborator 邀請後進行以下操作：
+只需要使用自己的 GitHub 帳號，接受 Repository Collaborator 邀請後進行以下操作：
 
 1. 先在 App 的「資料管理」匯出學習紀錄備份。
 2. 修改本機的 4 份 Excel；不要更改正式檔名、`dB題庫` 工作表名稱或必要欄位。
@@ -24,7 +24,7 @@
 8. 在 iPhone 主畫面重新開啟 App；若看到「有新版本可使用」，點「更新 App」。
 9. App 顯示「題庫已更新」後，核對更新統計；有答案變更時可直接點「開始複習更新題目」。
 
-爸爸不需要修改 `questions.json`、版本號、程式碼或 GitHub Actions，也不需要執行 Python、npm 或 Terminal。
+不需要修改 `questions.json`、版本號、程式碼或 GitHub Actions，也不需要執行 Python、npm 或 Terminal。
 
 ## Excel 修改規則
 
@@ -100,4 +100,4 @@ npm run build
 
 「資料管理」可以匯出 JSON。請在題庫更新、清除 Safari 資料或換手機前先備份。學習紀錄只存在該裝置與瀏覽器；清除網站資料會刪除紀錄。
 
-之後製作爸爸操作簡報所需的實際截圖清單，請見 `docs/sop/SCREENSHOT_CHECKLIST.md`。
+之後製作操作簡報所需的實際截圖清單，請見 `docs/sop/SCREENSHOT_CHECKLIST.md`。
